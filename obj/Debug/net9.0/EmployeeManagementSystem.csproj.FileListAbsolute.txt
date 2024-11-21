@@ -1,0 +1,14 @@
+C:\Users\ishwarya.mani\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.exe
+C:\Users\ishwarya.mani\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.deps.json
+C:\Users\ishwarya.mani\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\ishwarya.mani\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.dll
+C:\Users\ishwarya.mani\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.pdb
+C:\Users\ishwarya.mani\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishwarya.mani\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ishwarya.mani\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\ishwarya.mani\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ishwarya.mani\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.dll
+C:\Users\ishwarya.mani\EmployeeManagementSystem\obj\Debug\net9.0\refint\EmployeeManagementSystem.dll
+C:\Users\ishwarya.mani\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.pdb
+C:\Users\ishwarya.mani\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\ishwarya.mani\EmployeeManagementSystem\obj\Debug\net9.0\ref\EmployeeManagementSystem.dll
